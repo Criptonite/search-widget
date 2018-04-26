@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SearchWidget</string>
+    <string name="todo">TODO</string>
+    <string name="close_search_button">close_search_button</string>
+</resources>

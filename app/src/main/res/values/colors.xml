@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+    <color name="searchText">#99FFFFFF</color>
+    <color name="searchLevels">#FFFFFF</color>
+    <color name="searchStartBG">#39C2D7</color>
+    <color name="searchStartBGWithOpacity">#9939C2D7</color>
+    <color name="searchEndBG">#008ACE</color>
+    <color name="searchShadowInitial">#3D484B51</color>
+</resources>
